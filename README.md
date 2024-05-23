@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning web development and coding
 
-- 💻 All of my projects are available at my portfolio [https://superb-dusk-30116d.netlify.app/](https://superb-dusk-30116d.netlify.app/)
+- 💻 Check out my portfolio for a glimpse into my projects and skills!"  <a href="https://superb-dusk-30116d.netlify.app/">My portfolio</a>
 
 - 💬 Ask me about **problem solving , Front-End development**
 
 - 📫 Reach me out by mailing to **maheswarimahi2005@gmail.com**
 
-- 📄 want to know more about me check out my resume here -> <a href="https://drive.google.com/file/d/1dlek5bqo7NQKOnQi2nN8G3l1L39YZqFO/view?usp=sharing">Resume LinK</a>
+- 📄 want to know more about me check out my resume here -> <a href="https://drive.google.com/file/d/1dlek5bqo7NQKOnQi2nN8G3l1L39YZqFO/view?usp=sharing">Resume Link</a>
 - ⚡ Fun fact **I'm on a daily quest to discover something new online!**
 <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheswaridhanisetti&label=Profile%20views&color=0e75b6&style=flat" alt="maheswaridhanisetti" /> </p>
