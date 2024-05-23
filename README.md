@@ -11,8 +11,7 @@
 
 - 📫 Reach me out by mailing to **maheswarimahi2005@gmail.com**
 
-- 📄 want to know more about me check out my resume here -> [https://drive.google.com/file/d/1dlek5bqo7NQKOnQi2nN8G3l1L39YZqFO/view](https://drive.google.com/file/d/1dlek5bqo7NQKOnQi2nN8G3l1L39YZqFO/view)
-
+- 📄 want to know more about me check out my resume here -> <a href="https://drive.google.com/file/d/1dlek5bqo7NQKOnQi2nN8G3l1L39YZqFO/view?usp=sharing">Resume LinK</a>
 - ⚡ Fun fact **I'm on a daily quest to discover something new online!**
 <br>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheswaridhanisetti&label=Profile%20views&color=0e75b6&style=flat" alt="maheswaridhanisetti" /> </p>
