@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning AIML,Backend development and coding
 
-- 👨‍💻 All of my projects are available at my portfolio [https://superb-dusk-30116d.netlify.app/](https://superb-dusk-30116d.netlify.app/)
+- 💻 All of my projects are available at my portfolio [https://superb-dusk-30116d.netlify.app/](https://superb-dusk-30116d.netlify.app/)
 
 - 💬 Ask me about **problem solving , Front-End development**
 
