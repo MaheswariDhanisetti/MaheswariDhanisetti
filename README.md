@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <br>
 
-- 🌱 I’m currently learning AIML,Backend development and coding
+- 🌱 I’m currently learning web development and coding
 
 - 💻 All of my projects are available at my portfolio [https://superb-dusk-30116d.netlify.app/](https://superb-dusk-30116d.netlify.app/)
 
