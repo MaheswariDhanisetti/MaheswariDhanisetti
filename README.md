@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
 <br>
 
-- 🌱 I’m currently learning web development and coding
+- 🌱 I’m currently learning AWS development and coding
 
 - 💻 Check out my portfolio for a glimpse into my projects and skills!"  <a href="https://superb-dusk-30116d.netlify.app/">My portfolio</a>
 
